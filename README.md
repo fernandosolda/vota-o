@@ -16,12 +16,12 @@ cont <- 1
 repita
       LimpaTela
       Escreval ("Vota��o Jurado",cont,"sua modelo ecolhida �: ")
-      Escreval("Modelo Rafaela --> Digite 1")
-      Escreval("Modelo Carla --> Digite 2")
-      Escreval("Modelo Augusta --> Digite 3")
-      Escreval("Modelo Fernanda --> Digite 4")
-      Escreval("Modelo Maria --> Digite 5")
-      Escreval("Modelo Isabel --> Digite 6")
+      Escreval("Modelo robson--> Digite 1")
+      Escreval("Modelo Clayton --> Digite 2")
+      Escreval("Modelo otavio --> Digite 3")
+      Escreval("Modelo Fausto --> Digite 4")
+      Escreval("Modelo Gustavo--> Digite 5")
+      Escreval("Modelo Mario --> Digite 6")
       leia(i)
       enquanto (1<1) ou (i>6) fa�a
          escreval("Digite sua modelo valida: Escolha entre os valores")
